@@ -52,7 +52,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [Love2D](https://love2d.org/) - The framework used to build this game.
-- Any other libraries or resources used in your project.
 
 ## Contact
 
